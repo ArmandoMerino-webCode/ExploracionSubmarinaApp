@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno10\\Desktop\\Copermatica - Armando\\ExploracionSubmarinaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D80D488-78C4-BCF5-B49A-3DCE84B30801}|ExploracionSubmarinaApp\\ExploracionSubmarinaApp..csproj|c:\\users\\alumno10\\desktop\\copermatica - armando\\exploracionsubmarinaapp\\exploracionsubmarinaapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D80D488-78C4-BCF5-B49A-3DCE84B30801}|ExploracionSubmarinaApp\\ExploracionSubmarinaApp..csproj|solutionrelative:exploracionsubmarinaapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D80D488-78C4-BCF5-B49A-3DCE84B30801}|ExploracionSubmarinaApp\\ExploracionSubmarinaApp..csproj|c:\\users\\alumno10\\desktop\\copermatica - armando\\exploracionsubmarinaapp\\exploracionsubmarinaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D80D488-78C4-BCF5-B49A-3DCE84B30801}|ExploracionSubmarinaApp\\ExploracionSubmarinaApp..csproj|solutionrelative:exploracionsubmarinaapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D80D488-78C4-BCF5-B49A-3DCE84B30801}|ExploracionSubmarinaApp\\ExploracionSubmarinaApp..csproj|c:\\users\\alumno10\\desktop\\copermatica - armando\\exploracionsubmarinaapp\\exploracionsubmarinaapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D80D488-78C4-BCF5-B49A-3DCE84B30801}|ExploracionSubmarinaApp\\ExploracionSubmarinaApp..csproj|solutionrelative:exploracionsubmarinaapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno10\\Desktop\\Copermatica - Armando\\ExploracionSubmarinaApp\\ExploracionSubmarinaApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ExploracionSubmarinaApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Alumno10\\Desktop\\Copermatica - Armando\\ExploracionSubmarinaApp\\ExploracionSubmarinaApp\\Forms\\MainForm.cs",
+              "RelativeToolTip": "ExploracionSubmarinaApp\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAkwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:12:57.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alumno10\\Desktop\\Copermatica - Armando\\ExploracionSubmarinaApp\\ExploracionSubmarinaApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ExploracionSubmarinaApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alumno10\\Desktop\\Copermatica - Armando\\ExploracionSubmarinaApp\\ExploracionSubmarinaApp\\appsettings.json",
+              "RelativeToolTip": "ExploracionSubmarinaApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T08:08:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alumno10\\Desktop\\Copermatica - Armando\\ExploracionSubmarinaApp\\ExploracionSubmarinaApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "ExploracionSubmarinaApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Alumno10\\Desktop\\Copermatica - Armando\\ExploracionSubmarinaApp\\ExploracionSubmarinaApp\\Forms\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ExploracionSubmarinaApp\\Forms\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T23:30:46.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..csproj.AssemblyReference.cache
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..csproj.GenerateResource.cache
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..AssemblyInfoInputs.cache
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..AssemblyInfo.cs
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..csproj.CoreCompileInputs.cache
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp.Forms.MainForm.resources
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\appsettings.json
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..exe
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..deps.json
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..runtimeconfig.json
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..pdb
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\Explorac.CC0DF79A.Up2Date
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\refint\ExploracionSubmarinaApp..dll
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..pdb
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..genruntimeconfig.cache
+C:\Users\arman\Desktop\COPERMATICA\Actividad BBDD\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ref\ExploracionSubmarinaApp..dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\appsettings.json
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..exe
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..deps.json
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..runtimeconfig.json
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\ExploracionSubmarinaApp..pdb
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\bin\Debug\net10.0-windows\MySqlConnector.dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..csproj.AssemblyReference.cache
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp.Forms.MainForm.resources
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..csproj.GenerateResource.cache
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..AssemblyInfoInputs.cache
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..AssemblyInfo.cs
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..csproj.CoreCompileInputs.cache
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\Explorac.CC0DF79A.Up2Date
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\refint\ExploracionSubmarinaApp..dll
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..pdb
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ExploracionSubmarinaApp..genruntimeconfig.cache
+C:\Users\Alumno10\Desktop\Copermatica - Armando\ExploracionSubmarinaApp\ExploracionSubmarinaApp\obj\Debug\net10.0-windows\ref\ExploracionSubmarinaApp..dll
